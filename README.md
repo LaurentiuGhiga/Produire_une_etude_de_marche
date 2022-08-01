@@ -11,7 +11,7 @@ Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans
 Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
 
 ## **Les données**
-Pour ce projet, à nous de retrouver les données utiles pour une étude de marché fiable. Nous nous replongeains sur le site de la FAO car regorge de nombre données sur les bilans alimentatires(important pour cette étude). [Allons-y](http://www.fao.org/faostat/fr/#data).
+Pour ce projet, à nous de retrouver les données utiles pour une étude de marché fiable. Nous nous replongeons sur le site de la FAO car regorge de nombre données sur les bilans alimentatires(important pour cette étude). [Allons-y](http://www.fao.org/faostat/fr/#data).
 
 ## **Missions**
 Pour identifier les pays propices à une insertion dans le marché du poulet, il vous a été demandé de cibler les pays. Il vous faudra également étudier les régimes alimentaires de chaque pays, notamment en termes de protéines d'origine animale et en termes de calories.
